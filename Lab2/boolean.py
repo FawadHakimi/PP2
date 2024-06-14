@@ -1,0 +1,6 @@
+print(10>9)
+print(10<9)
+print(10==9)
+print(bool("I am a student"))
+print(bool(""))
+print(bool(123))
